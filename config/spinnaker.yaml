@@ -1,0 +1,8 @@
+gate:
+  endpoint: <SPIN_GATE>
+auth:
+  tokenUrl: <IAM TOKEN URL>
+  clientId: <IAM SPINNAKER CLIENT>
+  clientSecret: <IAM SPINNAKER CLIENT SECRET>
+  username: <IAM SPINNAKER USERNAME>
+  password: <IAM SPINNAKER PASSWORD>
